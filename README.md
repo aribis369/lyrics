@@ -24,8 +24,9 @@ Python 2.7
 ![OUTPUT window](2.png)
 
 ### FUTURE Develpoments
-1. Improving the Command Line Interface.
-2. Adding a Graphical User Interface for better usability.
+1.Adding supports for Python3
+2. Improving the Command Line Interface.
+3. Adding a Graphical User Interface for better usability.
 
 
 
