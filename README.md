@@ -6,6 +6,7 @@ the function takes name of artist and the track as input from the user.
 
 ##### this is a project for KOSS,IIT kharagpur and is used for educational purpose only.
 
+
 ### Language Used
 
 Python 2.7
@@ -15,6 +16,30 @@ Python 2.7
 
 * requests
 * BeautifulSoup4
+
+
+
+### Installation
+
+### Installing Dependencies
+
+### Installing requests
+
+#### pip install requests 
+
+
+### Installing BeautifulSoup4
+
+#### pip install beautifulsoup4
+
+### Cloning the Project for development
+
+#### git clone https://github.com/aribis369/lyrics
+
+
+
+
+
 
 ### Input
 
