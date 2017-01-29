@@ -18,8 +18,15 @@ Python 2.7
 
 ### Input
 
-
+![INPUT window](1.png)
 ### Output
+
+![OUTPUT window](2.png)
+
+### FUTURE Develpoments
+1. Improving the Command Line Interface.
+2. Adding a Graphical User Interface for better usability.
+
 
 
 
