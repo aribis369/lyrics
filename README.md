@@ -24,17 +24,15 @@ Python 2.7
 ### Installing Dependencies
 
 ### Installing requests
-
-#### pip install requests 
+$ pip install requests 
 
 
 ### Installing BeautifulSoup4
 
-#### pip install beautifulsoup4
+$ pip install beautifulsoup4
 
 ### Cloning the Project for development
-
-#### git clone https://github.com/aribis369/lyrics
+$ git clone https://github.com/aribis369/lyrics
 
 
 
