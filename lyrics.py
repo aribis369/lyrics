@@ -2,6 +2,8 @@
 
 from bs4 import BeautifulSoup
 import requests
+import sys
+import os
 
 
 def show_lyrics():
@@ -27,4 +29,5 @@ def main():
 
 
 if __name__ == "__main__":
+    print("initialising")
     main()
